@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Hello, Jupiter!");
         System.out.println("Hello, Sun!");
         System.out.println("Hello, Moon!");
+        System.out.println("Hello, Uranus!");
 
     }
 }
